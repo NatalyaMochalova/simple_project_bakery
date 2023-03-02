@@ -1,0 +1,26 @@
+.box_1 {
+  width: 600px;
+  height: 220px;
+  background-color: red;
+  margin-bottom: 50px;
+}
+
+.box_2 {
+  width: 100px;
+  height: 100px;
+}
+
+.box_3 {
+  width: 300px;
+  height: 400px;
+  background-color: blue;
+}
+
+.box_4 {
+  width: 250px;
+  height: 100px;
+}
+
+.box_color_grey {
+  background-color: grey;
+}

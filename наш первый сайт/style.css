@@ -1,0 +1,17 @@
+div {
+      background-color: red;
+      width: 400px;
+      height: 400px;
+    }
+
+    .box__red {
+      background-color: red;
+    }
+
+    .box__yellow {
+      background-color: yellow;
+    }
+
+    .box__text {
+      font-size: 50px;
+    }
